@@ -9,7 +9,7 @@ need : kudu-python (1.2.0)
 
 ## usage
 
-usage: etemp.py [-h] -i IP -t TABLE -f FILE [-p PORT]
+usage: python3.6 kudu_csv_export.py [-h] -i IP -t TABLE -f FILE [-p PORT]
 
 optional arguments:
 
