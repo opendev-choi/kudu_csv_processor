@@ -40,5 +40,5 @@ if __name__ == '__main__':
                 cnt += 1
             print(f'\r| now writing {cnt} row / '
                   f'elapse time {(datetime.datetime.now() - start_time).total_seconds():.2f} sec', end='\r')
-        print(f'| end process / {cnt}')
+        print(f'\n| end process / {cnt}')
 
